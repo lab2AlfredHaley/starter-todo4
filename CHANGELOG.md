@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.3] - 2018-02-15
+
+Added
+
+Changed
+-MY_Controller.php
+    render function
+-homepage.php
+    tasks table
+-Welcome.php
+
 [0.0.2] - 2018-02-15
 
 Added
