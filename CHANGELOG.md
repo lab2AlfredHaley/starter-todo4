@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.4] - 2018-02-15
+
+Added
+-template_seecondary.php
+-Views.php
+-by_category.php
+-bypriority.php
+
+Changed
+-config.php
+    updated work link
+-Tasks.php
+    order by category function
+
 [0.0.3] - 2018-02-15
 
 Added
