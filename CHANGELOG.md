@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.5] - 2018-02-15
+
+Added
+-itemlist.php
+-Mtce.php
+
+Changed
+config.php
+  added mtce to maintenace link
+
+
 [0.0.4] - 2018-02-15
 
 Added
@@ -17,6 +28,7 @@ Changed
     updated work link
 -Tasks.php
     order by category function
+    
 
 [0.0.3] - 2018-02-15
 
