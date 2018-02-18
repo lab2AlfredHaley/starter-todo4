@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+
+
+[0.0.6] - 2018-02-15
+
+Added
+-jobs.md
+-Helpme.php
+
+Changed
+config.php
+  added helpme to help wanted link
+
+
 [0.0.5] - 2018-02-15
 
 Added
