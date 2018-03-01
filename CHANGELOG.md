@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 [Unreleased]
 
 
+[0.0.7] - 2018-03-01
+
+Added
+-itemnav.php
+
+Changed
+-Mtce.php
+    seperated tasks onto pages
+-itemlist.php
+
 
 [0.0.6] - 2018-02-15
 
