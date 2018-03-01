@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 [Unreleased]
 
 
+[0.0.8] - 2018-03-01
+
+Added
+-Roles.php
+tmp
+
+Changed
+-constants.php
+    define user roles
+-_menubar.php
+    user role
+-.gitignore
+    ignore tmp
+-autoload.php
+-Mtce.php
+    user role in title
+
 [0.0.7] - 2018-03-01
 
 Added
