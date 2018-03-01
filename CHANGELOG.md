@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.9] - 2018-03-01
+
+Added
+
+Changed
+-by_priority.php
+-Views.php
+-by_category.php
 
 [0.0.8] - 2018-03-01
 
