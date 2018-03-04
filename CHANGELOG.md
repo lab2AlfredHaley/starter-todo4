@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.12] - 2018-03-04
+
+Changed
+-itemedit.php
+  added categories
+-Mtce.php
+  edited showit()
+
 [0.0.11] - 2018-03-04
 
 Added
@@ -19,7 +27,7 @@ Changed
   added edit()
   added showit()
   added cancel()
-  adeed delete()
+  added delete()
 
 
 [0.0.10] - 2018-03-04
