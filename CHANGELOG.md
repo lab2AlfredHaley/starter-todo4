@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.13] - 2018-03-04
+
+Changed
+-README.md
+
+
 [0.0.12] - 2018-03-04
 
 Changed
