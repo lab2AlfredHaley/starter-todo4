@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.10] - 2018-03-01
+
+Added
+-oneitemx.php
+-itemadd.php
+
+Changed
+-Mtce.php
+  added per user item addition link
+  added links with different user id
+
 [0.0.9] - 2018-03-01
 
 Added
