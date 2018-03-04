@@ -4,6 +4,84 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.13] - 2018-03-04
+
+Changed
+-README.md
+
+
+[0.0.12] - 2018-03-04
+
+Changed
+-itemedit.php
+  added categories
+-Mtce.php
+  edited showit()
+
+[0.0.11] - 2018-03-04
+
+Added
+-itemedit.php
+
+Changed
+-App.php
+  Bugfix
+-Tasks.php
+  Validation
+-Mtce.php
+  added add()
+  added edit()
+  added showit()
+  added cancel()
+  added delete()
+
+
+[0.0.10] - 2018-03-04
+
+Added
+-oneitemx.php
+-itemadd.php
+
+Changed
+-Mtce.php
+  added per user item addition link
+  added links with different user id
+
+[0.0.9] - 2018-03-01
+
+Added
+
+Changed
+-by_priority.php
+-Views.php
+-by_category.php
+
+[0.0.8] - 2018-03-01
+
+Added
+-Roles.php
+tmp
+
+Changed
+-constants.php
+    define user roles
+-_menubar.php
+    user role
+-.gitignore
+    ignore tmp
+-autoload.php
+-Mtce.php
+    user role in title
+
+[0.0.7] - 2018-03-01
+
+Added
+-itemnav.php
+
+Changed
+-Mtce.php
+    seperated tasks onto pages
+-itemlist.php
 
 
 [0.0.6] - 2018-02-15
