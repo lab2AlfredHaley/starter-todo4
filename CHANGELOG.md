@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.17] - 2018-03-11
+Added
+-.travis.yml
+
+Changed
+-README.md
 
 [0.0.16] - 2018-03-11
 Added
