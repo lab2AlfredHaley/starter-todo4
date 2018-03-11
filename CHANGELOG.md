@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.15] - 2018-03-08
+Added
+-.travis.yml
+
+Changed
+-README.md
+
 [0.0.14] - 2018-03-08
 Added
 -composer.json
