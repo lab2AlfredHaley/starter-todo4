@@ -4,6 +4,34 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.17] - 2018-03-11
+Added
+-.travis.yml
+
+Changed
+-README.md
+
+[0.0.16] - 2018-03-11
+Added
+-test/application/models/TaskListTest.php
+
+[0.0.15] - 2018-03-11
+Added
+-test/application/models/TaskTest.php
+
+
+[0.0.14] - 2018-03-08
+Added
+-composer.json
+-phpunit.xml
+-tests/
+-Task.php
+
+Changed
+-gitignore
+-Entity.php
+-Tasks.php
+
 [0.0.13] - 2018-03-04
 
 Changed

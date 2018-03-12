@@ -30,7 +30,10 @@ class Tasks extends CSV_Model {
 
             // substitute the category name, for sorting
             foreach ($undone as $task)
-                $task->group = $this->app->group($task->group);
+            {
+                if (!empty($this->app))
+                    $task->group = $this->app->group($task->group);
+            }
 
             // order them by category
             usort($undone, "orderByCategory");
