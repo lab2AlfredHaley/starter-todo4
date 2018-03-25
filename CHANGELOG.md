@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 [Unreleased]
 
+[0.0.19] - 2018-03-25
+
+Added
+-Readme
+
+Tested adding and removing items with XML persistence
+works as expected
+
+[0.0.18] - 2018-03-22
+Added
+-tasks.xml
+
+Changed
+-XML_Model.php
+    edited load
+-Tasks.php
+    switched to XML
+
 [0.0.17] - 2018-03-11
 Added
 -.travis.yml
